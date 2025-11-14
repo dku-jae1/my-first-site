@@ -45,7 +45,7 @@ export function Contact() {
     workTime: "평일 09:00 - 20:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
-    sectionSubtitle: "프로젝트 문의나 협업 제안을 기다리고 있습니다. 편하신 방법으로 연락주세요!",
+    sectionSubtitle: "부동산 투자의 노하우를 알려드립니다.",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "부동산 투자에 대해 알려드립니다",
